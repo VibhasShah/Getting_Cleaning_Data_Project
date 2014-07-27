@@ -1,0 +1,15 @@
+https://github.com/bquast/Getting-Cleaning-Data
+
+https://github.com/eriky/coursera-getting-and-cleaning-data/blob/master/run_analysis.R
+
+https://github.com/Xiaodan/Coursera-Getting-and-Cleaning-Data/blob/master/peer_assessment/run_analysis.R
+
+https://github.com/sefakilic/coursera-getdata/blob/master/run_analysis.R
+
+https://github.com/laurikoobas/coursera-getting-and-cleaning-data/blob/master/run_analysis.R
+
+https://github.com/tanmaykm/accel_analysis/blob/master/run_analysis.R
+
+
+
+
